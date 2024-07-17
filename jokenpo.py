@@ -24,3 +24,4 @@ if player_1_wins > player_2_wins:
     print('Player 1 é o vencedor!')
 else:
     print('Player 2 é o vencedor!')
+    #teste do git
