@@ -1,1 +1,0 @@
-enquanto vitorias for menor que o numero de turnos restantes / 2
